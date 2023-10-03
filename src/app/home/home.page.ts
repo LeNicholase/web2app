@@ -18,7 +18,7 @@ export class HomePage {
   }
 
   launchSite(){
-    this.inAppBrowser.create(`https://camertechtrends.com`, `_blank`);
+    this.inAppBrowser.create(`https://www.onzla.com`, `_blank`);
   }
 
   exitApp(){
